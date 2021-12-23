@@ -1,2 +1,2 @@
-This project was applied for final year mini-thesis.
+This project was created for final year mini-thesis.
 It needs refactoring.
